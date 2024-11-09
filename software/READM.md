@@ -30,11 +30,11 @@ for i in range(10):
     time.sleep(1)
 ```
 
-In Thorny (Shell) type the following
+In Thorny (Shell) type the following: 
 execfile ("blink.py")
 
 ****************
-After building the core for ICE40 you will have 'tinyQV.bin'. Upload it to pico-ice with thorny and do 
+After building the core for ICE40 you will have 'tinyQV.bin'. Upload it to pico-ice with thorny and type 
 ```
 execfile ("fpga_flash_prog.py")
 ```
@@ -80,3 +80,13 @@ then type. This will setup the pico to "feed" the FPGA with a CLK signal
 >>> execfile ("run_tinyqv.py")
 >>> 
 ```
+
+build example application for tinyQV
+https://github.com/MichaelBell/tinyQV-projects
+
+upload them to pico
+--stop fpga and clock feed
+use "flash_prog.py" to upload tinyQV flash in the PMOD
+--restart fgpa with "run_tinyqv.py"
+
+
