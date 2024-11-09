@@ -76,7 +76,7 @@ ff 00 00 ff 7e aa 99 7e 51 00 01 05 92 00 20 62
 ```
 
 After the fpga tinyQV core was flashed. it's needed to start it.
-The floowing will setup the pico to "feed" the FPGA with the CLK signal
+The following will setup the pico "feed" the FPGA with a CLK signal
 ```
 >>> execfile ("run_tinyqv.py")
 >>> 
