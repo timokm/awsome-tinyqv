@@ -84,9 +84,9 @@ then type. This will setup the pico to "feed" the FPGA with a CLK signal
 build example application for tinyQV
 https://github.com/MichaelBell/tinyQV-projects
 
-upload them to pico
---stop fpga and clock feed
-use "flash_prog.py" to upload tinyQV flash in the PMOD
---restart fgpa with "run_tinyqv.py"
+upload them to pico  
+--stop fpga and clock feed  
+use "flash_prog.py" to upload tinyQV flash in the PMOD  
+--restart fgpa with "run_tinyqv.py"  
 
 
