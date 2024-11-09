@@ -1,5 +1,5 @@
 # awsome-tinyqv
-A liist of TinyQv resources, tutorials, tools and more for
+A list of links for resources, tutorials, tools and more for TinyQv
 https://github.com/MichaelBell/tinyQV
 
 ## Contents
