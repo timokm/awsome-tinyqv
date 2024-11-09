@@ -40,7 +40,8 @@ execfile ("fpga_flash_prog.py")
 ```
 ![alt text](image.png)
 
----
+results
+```
 >>> execfile ("fpga_flash_prog.py")
 00 ef 15 
 *******.----------------.
@@ -72,11 +73,10 @@ execfile ("fpga_flash_prog.py")
 Program done
 Verify done
 ff 00 00 ff 7e aa 99 7e 51 00 01 05 92 00 20 62 
----
+``
 
-then do 
-```
-execfile ("run_tinyqv.py")
+then type. This will setup the pico to "feed" the FPGA with a CLK signal
 ```
 >>> execfile ("run_tinyqv.py")
 >>> 
+```
