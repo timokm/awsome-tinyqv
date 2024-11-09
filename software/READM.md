@@ -6,7 +6,7 @@ https://micropython.org/download/RPI_PICO/
 +Open Thorny and select the board (bottom right corner)
 +Create "blinky.py" on your computer and upload with Thorny (View->Files) 
 
-------------
+```
 import time
 from machine import Pin
 
@@ -28,7 +28,7 @@ for i in range(10):
     time.sleep(1)
     ledR.value(ON)
     time.sleep(1)
----------
+```
 
 In Thorny (Shell) type the following
 execfile ("blink.py")
