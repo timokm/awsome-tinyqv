@@ -32,10 +32,10 @@
         <mxCell id="3a17f1ce550125da-9" value="&lt;div&gt;fpga&lt;br&gt;&lt;/div&gt;&lt;div&gt;FLASH&lt;/div&gt;" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="890" y="240" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nI81fx_2xIRvmV9WYT-U-2" value="RAM1" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="nI81fx_2xIRvmV9WYT-U-2" value="RAM A " style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1065.5" y="170" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nI81fx_2xIRvmV9WYT-U-3" value="RAM2" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="nI81fx_2xIRvmV9WYT-U-3" value="RAM B" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1140" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nI81fx_2xIRvmV9WYT-U-4" value="pico&lt;br&gt;FLASH" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
@@ -56,10 +56,10 @@
         <mxCell id="nI81fx_2xIRvmV9WYT-U-9" value="FLASH" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1065.5" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nI81fx_2xIRvmV9WYT-U-10" value="RAM" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="nI81fx_2xIRvmV9WYT-U-10" value="RAM A" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1050" y="540" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nI81fx_2xIRvmV9WYT-U-11" value="RAM" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="nI81fx_2xIRvmV9WYT-U-11" value="RAM B" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1124.5" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nI81fx_2xIRvmV9WYT-U-12" value="FLASH" style="whiteSpace=wrap;html=1;shadow=1;fontSize=18;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
